@@ -32,7 +32,9 @@ The goal of this project was to clean, analyze, and visualize sales data to gene
    - Orders & Total Amount by Territory
    - KPI Cards (Total Orders, Amount, Due, Freight, Tax)
 
+## 📊 Sales Dashboard Preview
 
+![Dashboard Screenshot](screenshot.png)
 
 ## 🚀 Tools Used
 - Power BI Online
